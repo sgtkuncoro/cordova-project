@@ -1,2 +1,2 @@
-# cordova_test
+# cordova project
 a simple project to learn cordova
