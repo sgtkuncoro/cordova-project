@@ -1,2 +1,2 @@
-# cordova_project
-example of cordova project
+# cordova_test
+a simple project to learn cordova
