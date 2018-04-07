@@ -1,2 +1,2 @@
 # cordova_project
-cordova project example
+example of cordova project
