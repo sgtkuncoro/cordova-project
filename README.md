@@ -1,4 +1,4 @@
-# Cordova Project
+# Example Cordova Project
 A simple project to learn cordova
 
 ## Android Platform
